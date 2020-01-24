@@ -4,5 +4,16 @@
   "main": "index.js",
   "repository": "git@github.com:LukasBombach/macos9.git",
   "author": "Lukas Bombach <lukas.bombach@googlemail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "start-storybook -p 6006 -c .storybook"
+  },
+  "dependencies": {
+    "@babel/core": "7.8.3",
+    "@storybook/react": "5.3.9",
+    "babel-loader": "8.0.6",
+    "babel-preset-react-app": "9.1.0",
+    "react": "16.12.0",
+    "react-dom": "16.12.0"
+  }
 }
