@@ -1,0 +1,8 @@
+{
+  "name": "macos9",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:LukasBombach/macos9.git",
+  "author": "Lukas Bombach <lukas.bombach@googlemail.com>",
+  "license": "MIT"
+}
