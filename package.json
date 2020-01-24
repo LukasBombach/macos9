@@ -1,7 +1,6 @@
 {
   "name": "macos9",
   "version": "1.0.0",
-  "main": "index.js",
   "repository": "git@github.com:LukasBombach/macos9.git",
   "author": "Lukas Bombach <lukas.bombach@googlemail.com>",
   "license": "MIT",
@@ -14,6 +13,7 @@
     "babel-loader": "8.0.6",
     "babel-preset-react-app": "9.1.0",
     "react": "16.12.0",
-    "react-dom": "16.12.0"
+    "react-dom": "16.12.0",
+    "storybook-addon-designs": "5.1.2"
   }
 }

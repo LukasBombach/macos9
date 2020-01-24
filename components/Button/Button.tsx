@@ -1,1 +1,7 @@
-export default () => <button>I am a button</button>;
+import React, { ReactNode } from "react";
+
+export interface ButtonProps {
+  children?: ReactNode;
+}
+
+export default ({ children }) => <button>{children}</button>;
